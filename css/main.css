@@ -1,0 +1,52 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+    
+}
+
+#wrapper{
+    max-width: 960px;
+    margin: auto;
+   
+    
+}
+footer{
+    background-color:#1a237e;
+    height: 50px;
+    padding-top: 30px;
+    font-size: 1rem;
+    text-transform: uppercase;
+}
+nav{
+    border-bottom: #3949ab;
+   border-style: solid;
+   border-left: none;
+   border-right: none;
+   border-top: none;
+}
+nav a{
+    color:#3949ab ;
+    text-decoration: none;
+}
+nav a :hover{
+    color:#1a237e;
+    cursor: pointer;
+    text-decoration: none;
+}
+a{ 
+    color: blue;
+}
+.babyphoto{
+    width: 80px;
+    height: 100px;
+    float: left;
+    margin-right: 20px;
+}
+
+
+/* CSS media queries*/
+@media screen and (min-width:600px) { 
+    #smaller{display: none;}
+ 
+    #wider{display: block;}
+ ul {display: flex; justify-content: space-between; list-style: none;}}

@@ -1,0 +1,3 @@
+darker blue for footer - #1a237e
+About me page
+  <p> Hello. My name is Malachi, and I am a young aspiring developer. My interests in IT and Computer Science both stemed from a young age. Growing up in a household with 2 parents who were both technologically gifted and had quite 'digital' jobs, I also looked up to them, and have always been fascinated to electronics. Also, from playing a lot of digital games growing up I have always been interested in the science behind the games, and how they were created, or developed
