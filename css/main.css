@@ -1,3 +1,7 @@
+/* General styling */
+h1{
+    text-align: center;
+}
 *{
     box-sizing: border-box;
 }
